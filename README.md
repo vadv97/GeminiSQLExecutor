@@ -29,3 +29,5 @@ This project takes advantage of:
 - **Language Models**: Google's Gemini model, a transformer-based language model, is used to generate SQL queries from English language questions.
 - **Multimodal Learning**: Gemini's multimodal capabilities enable it to process and generate content from various sources, including text, images, and code.
 - **Transfer Learning**: Gemini also benefits from transfer learning, where knowledge gained from pre-trained models on specific tasks is transferred to new tasks. This helps it learn faster and achieve better performance.
+
+![image](https://github.com/vadv97/GeminiSQLExecutor/assets/85503358/e25a35a1-18be-463c-8547-6965fbad5e1d)
