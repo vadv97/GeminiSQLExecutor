@@ -18,7 +18,7 @@ def callGemini(question, prompt):
     return response.text
 
 # Function to run query on the mySQL db
-def readSQL(query, db_user="root", db_password="VA9999", db_host="localhost", db_name="hospital"):
+def readSQL(query, db_user="root", db_password="root", db_host="localhost", db_name="hospital"):
     try:
         # Establish a connection
         connection = mysql.connector.connect(
